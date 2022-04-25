@@ -1,12 +1,12 @@
 ---
 title:
 - type: main
-  text: Pay Off
+  text: Linux for Creators
 creator:
 - role: author
-  text: Dan Ariely
-description: The Hidden Logic that Shapes our Motivation
-rights: Commercial
+  text: Justin M. Sloan
+description: Pop!_OS from Beginner to Advanced
+rights: All Rights Reserved
 language: en-US
 stylesheet: epub.css
 cover-image: cover.jpg
