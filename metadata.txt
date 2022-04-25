@@ -1,13 +1,14 @@
 ---
-title:
-- type: main
-  text: Linux for Creators
-creator:
-- role: author
-  text: Justin M. Sloan
-description: Pop!_OS from Beginner to Advanced
-rights: All Rights Reserved
+title: 'Linux for Creators'
+subtitle: "Pop!_OS from Beginner to Advanced"
+author: Justin M. Sloan
+rights: © 2022 Justin M. Sloan. All Rights Reserved.
 language: en-US
 stylesheet: epub.css
 cover-image: cover.jpg
+description: |
+    This is a long
+    description.
+
+    It consists of two paragraphs
 ...
