@@ -1,3 +1,50 @@
 Introduction
 
-Chapter 1 - 
+Chapter 1 - Installing Pop!_OS
+    o Getting Pop!_OS
+    o Preparing Installation Media
+    o Booting and Installing
+    o Summary
+
+Chapter 2 - The COSMIC Desktop
+    o Getting Acquainted with COSMIC
+    o Launching and Using Applications
+    o Using the Window Manager
+    o The User Home Folder
+
+Chapter 3 - Using the Terminal
+    o Starting a Terminal Session
+    o Moving Around the Filesystem
+    o Manipulating Files and Folders
+    o Dealing with Users and Groups
+    o Dealing with File Permissions
+    o Searching and Editing Text Files
+    o Building Pipelines
+    o Running Commands as the Superuser
+    o Viewing System Information
+
+Chapter 4 - Finding and Installing Applications
+    o Using the Pop! Shop
+    o Learning Terminology and Foundations
+    o Using the Package Manager
+    o Managing Software Repositories
+    o Explore Software Solutions
+
+Chapter 5 - System Administration
+    o Configuring a Printer
+    o System Settings
+    o Keeping Your Computer Up to Date
+    o Security and Privacy Settings
+
+Chapter 6 - Customizing Pop!_OS
+    o Customizing the Look and Feel
+    o Using the GNOME Tweak Tool
+    o Using GNOME Extensions
+
+Chapter 7 - Advanced Customization
+    o Working With BASH Aliases
+    o Customize Your Command Prompt
+
+Chapter 8 - Gaming on Linux
+
+Chapter 9 - The Pop!_OS Community
