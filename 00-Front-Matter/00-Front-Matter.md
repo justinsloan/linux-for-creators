@@ -1,6 +1,4 @@
-![Book Cover](cover.png)
-
-\pagebreak
+/pagebreak
 
 # Copyright & Disclaimers
 Many of the designations used by manufacturers and sellers to distinguish their products are claimed as trademarks. Where those designations appear in this book, and the publisher was aware of a trademark claim, the designations have been printed with initial capital letters or in all capitals.
