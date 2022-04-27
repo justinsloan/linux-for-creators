@@ -12,6 +12,9 @@ Copyright © 2022 Justin M. Sloan
 This book is published under the Creative Commons Attribution-ShareAlike 3.0 license, http://creativecommons.org/licenses/by-sa/3.0/
 
 # Acknowledgements
+Portions of this book were adapted from *The Official Ubuntu Book, 9th Edition*, licensed under the Creative Commons Attribution-ShareAlike 3.0 license, http://creativecommons.org/licenses/by-sa/3.0/. Copyright 2017 Canonical, Ltd. 
+
+*Linux for Creators* is not affiliated with or endorsed by Canonical, Ltd.
 
 
 # About the Author

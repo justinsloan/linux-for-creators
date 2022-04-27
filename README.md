@@ -12,6 +12,15 @@ I have not worked out the details on how this book will be licensed for mass dis
 pandoc -s --toc --epub-embed-font='fonts/*.ttf' -o book.epub metadata.txt \
     ./00-Front-Matter/00-Front-Matter.md \
     ./00-Introduction/00-Introduction.md \
+    ./01-Installing-Pop-OS/01-Installing-Pop-OS.md \
+    ./02-The-COSMIC-Desktop/02-The-COSMIC-Desktop.md \
+    ./03-Using-the-Terminal/03-Using-the-Terminal.md \
+    ./04-Finding-and-Installing-Applications/04-Finding-and-Installing-Applications.md \
+    ./05-System-Administration/05-System-Administration.md \
+    ./06-Customizing-Pop-OS/06-Customizing-Pop-OS.md \
+    ./07-Advanced-Customization/07-Advanced-Customization.md \
+    ./08-Gaming-on-Linux/08-Gaming-on-Linux.md \
+    ./09-The-Pop-OS-Community/09-The-Pop-OS-Community.md \
     ./99-Back-Matter/99-Back-Matter.md
 ```
 

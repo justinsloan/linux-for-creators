@@ -19,3 +19,21 @@ This book is meant to be both a reference manual and how-to-guide. Each chapter 
 To a certain extent, I assume you have a bit of experience with GNU/Linux and want to improve your skills. This book will not cover tasks like using office software, music and movie players, organizing photos, browsing the web, etc. (but it will show you how to locate and install these kinds of software).
 
 ## A Brief Introduction to Each Chapter
+
+### Chapter 1 - Installing Pop!_OS
+
+### Chapter 2 - The COSMIC Desktop
+
+### Chapter 3 - Using the Terminal
+
+### Chapter 4 - Finding and Installing Applications
+
+### Chapter 5 - System Administration
+
+### Chapter 6 - Customizing Pop!_OS
+
+### Chapter 7 - Advanced Customization
+
+### Chapter 8 - Gaming on Linux
+
+### Chapter 9 - The Pop!_OS Community
