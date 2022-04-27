@@ -37,3 +37,5 @@ To a certain extent, I assume you have a bit of experience with GNU/Linux and wa
 ### Chapter 8 - Gaming on Linux
 
 ### Chapter 9 - The Pop!_OS Community
+
+\pagebreak

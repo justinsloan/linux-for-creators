@@ -7,3 +7,5 @@
 ## Using the Window Manager
 
 ## The User Home Folder
+
+\pagebreak

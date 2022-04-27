@@ -28,7 +28,7 @@ Chapter 4 - Finding and Installing Applications
     o Learning Terminology and Foundations
     o Using the Package Manager
     o Managing Software Repositories
-    o Explore Software Solutions
+    o Explore Creator Toolkits
 
 Chapter 5 - System Administration
     o Configuring a Printer

@@ -9,7 +9,10 @@ I have not worked out the details on how this book will be licensed for mass dis
 2. Clone this repository to your local machine.
 3. Build the book with the following syntax:
 ```bash
-pandoc -s --toc --epub-embed-font='fonts/*.ttf' -o book.epub metadata.txt \
+pandoc -s --toc --epub-embed-font='fonts/*.ttf' \
+    -o book.epub \
+    -f markdown+implicit_figures \
+    metadata.txt \
     ./00-Front-Matter/00-Front-Matter.md \
     ./00-Introduction/00-Introduction.md \
     ./01-Installing-Pop-OS/01-Installing-Pop-OS.md \

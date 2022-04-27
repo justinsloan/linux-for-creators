@@ -10,3 +10,5 @@ The second is by downloading Pop!_OS from the official website of System76.
 ## Booting and Installing
 
 ## Summary
+
+\pagebreak
