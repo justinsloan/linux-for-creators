@@ -5,7 +5,7 @@ author: By Justin M. Sloan
 rights: Copyright © 2022 Justin M. Sloan.
 language: en-US
 stylesheet: epub.css
-cover-image: cover.png
+cover-image: ./00-Front-Matter/cover.png
 description: |
     This is a long
     description.

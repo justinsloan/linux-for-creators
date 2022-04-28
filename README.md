@@ -1,10 +1,12 @@
 # Linux for Creators: Pop!_OS from Beginner to Advanced
 This project *intends* to be a user manual for [Pop!_OS](https://pop.system76.com/) by [System76](https://system76.com/), but I am just getting started.
 
-### A note about licensing
-I have not worked out the details on how this book will be licensed for mass distribution. I fully intend for it to be some form of *copyleft*, but I do not know under what terms. During production it will be free (as in beer), but all other rights are reserved.
+### Licensing and Distribution
+This book is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) [license](https://creativecommons.org/licenses/by-sa/4.0/).
 
-### Create Book
+*Linux for Creators* is not affiliated with or endorsed by Canonical, Ltd. or System76, Inc.
+
+### How to Build/Create the Book
 1. Install [Pandoc](https://pandoc.org/).
 2. Clone this repository to your local machine.
 3. Build the book with the following syntax:
@@ -13,8 +15,8 @@ pandoc -s \
     --toc --toc-depth=2 \
     -V toc-title:"Table of Contents" \
     --epub-embed-font='fonts/*.ttf' \
-    -o book.epub \
     -f markdown+implicit_figures \
+    -o book.epub \
     metadata.txt \
     ./00-Front-Matter/00-Front-Matter.md \
     ./00-Introduction/00-Introduction.md \

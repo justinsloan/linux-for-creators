@@ -1,3 +1,2 @@
-![Book Cover](cover.png)
 
-/pagebreak
+\pagebreak
